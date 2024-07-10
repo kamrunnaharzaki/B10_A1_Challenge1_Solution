@@ -56,6 +56,9 @@ body {
     line-height: 36px;
 }
 
+nav ul li{
+    list-style: none;
+}
 .contact_btn {
     margin-top: 20px;
     padding: 10px 15px;
